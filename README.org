@@ -1,0 +1,9 @@
+* trivial-mimes
+
+Tiny Common Lisp library to detect mime types in files.
+
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/Shinmera/trivial-mimes.git |
+| commit  | fd07c43                                           |
+| systems | trivial-mimes                                     |
+|---------+---------------------------------------------------|
